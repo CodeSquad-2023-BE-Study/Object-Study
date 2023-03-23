@@ -1,5 +1,12 @@
-# 📖 오브젝트 스터디
-- 진행 기간: 23-03-13(월) ~
+# 📖 파리지옥 - 오브젝트 스터디
+느리더라도 꾸준히 깊게 객체지향에 대해 공부하는 스터디 모임입니다.
+
+| 진행 기간 | 23-03-13(월) ~ |
+| :--- | :--- |
+| 스터디 일정 | 매주 목요일 온라인/오프라인 번갈아가며 진행 |
+| 운영 규칙 | [Wiki](https://github.com/CodeSquad-2023-BE-Study/Object-Study/wiki) 참고 |
+| 모임 일지 | [Wiki](https://github.com/CodeSquad-2023-BE-Study/Object-Study/wiki) 참고 |
+
 
 <br/>
 
@@ -21,9 +28,7 @@
 
 <br/>
 
-## 📑 회의록
-
-## 🔖 TOC
-### Ch.1 객체, 설계
-### Ch.2 객체지향 프로그래밍
-### Ch.3 역할, 책임, 협력
+## 🗂️ 발표 자료
+| 날짜 | Chapter | 발표 자료 |
+| --- | --- | --- |
+| 2023-03-23(목) | Ch.01 - 객체, 설계 | [jinny-l](https://velog.io/@jinny-l/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%9C%A0%EC%97%B0%ED%95%9C-%EC%84%A4%EA%B3%84-Ch.1-%EA%B0%9D%EC%B2%B4-%EC%84%A4%EA%B3%84) / [leegyeongwhan](https://velog.io/@leekhy02/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-1%EC%9E%A5.-%EA%B0%9D%EC%B2%B4-%EC%84%A4%EA%B3%84) |
