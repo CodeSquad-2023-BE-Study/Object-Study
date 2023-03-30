@@ -32,5 +32,5 @@
 | 날짜 | Chapter | 발표 자료 |
 | --- | --- | --- |
 | 2023-03-23(목) | Ch.01 - 객체, 설계 | [jinny-l](https://velog.io/@jinny-l/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%9C%A0%EC%97%B0%ED%95%9C-%EC%84%A4%EA%B3%84-Ch.1-%EA%B0%9D%EC%B2%B4-%EC%84%A4%EA%B3%84) / [leegyeongwhan](https://velog.io/@leekhy02/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-1%EC%9E%A5.-%EA%B0%9D%EC%B2%B4-%EC%84%A4%EA%B3%84) |
-|2023-03-30(목)|Ch.02 - 객체지향 프로그래밍 | [crtEvent](https://orange-sycamore-3a8.notion.site/Inheritance-vs-Composition-cda6cb20569f4ee1928311d8b660224d) | [new-pow](https://www.notion.so/new-pow/runtime-52e38f22df1d406aa6762c242988b9ee?pvs=4) |
+|2023-03-30(목)|Ch.02 - 객체지향 프로그래밍 | [crtEvent](https://orange-sycamore-3a8.notion.site/Inheritance-vs-Composition-cda6cb20569f4ee1928311d8b660224d) [new-pow](https://www.notion.so/new-pow/runtime-52e38f22df1d406aa6762c242988b9ee?pvs=4) |
 |2023-04-06(목)|Ch.03 - 역할, 책임, 협력 | | |
