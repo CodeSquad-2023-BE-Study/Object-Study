@@ -1,3 +1,18 @@
+#  목차
+- [Entity Component System (Java)](#entity-component-system-java)
+- [코드](#코드)
+  - [Component](#component)
+  - [Entity](#entity)
+  - [System](#system)
+  - [Entity text 파일을 GameObject 객체로 만드는 로직](#entity-text-파일을-gameobject-객체로-만드는-로직)
+    - [1. text 파일 읽어오기](#1-text-파일-읽어오기)
+    - [2. text 파일에서 읽어온 내용을 구분자(`,`)로 분류하여 Component 추가하기](#2-text-파일에서-읽어온-내용을-구분자로-분류하여-component-추가하기)
+  - [System 로직](#system-로직)
+- [World - GameObject와 System을 통합](#world---gameobject와-system을-통합)
+    - [Entity text 파일을 GameObject 객체로 만들어 애플리케이션에 등록합니다](#entity-text-파일을-gameobject-객체로-만들어-애플리케이션에-등록합니다)
+    - [각 System을 쓰레드로 만들어 동시에 작동하도록 합니다](#각-system을-쓰레드로-만들어-동시에-작동하도록-합니다)
+- [실행 결과 Console](#실행-결과-console)
+
 # Entity Component System (Java)
 - Entity Component System를 검색해서 나온 블로그, Github, 강의에 나온 코드를 짜집기한 코드입니다. 제가 이해할 수 있는 부분만 간소화 하여 작성한 코드이므로 실제와 많이 다르고 틀린 부분이 있을 수 있습니다. 참고용으로 보세요.
 - 코드의 출처는 발표자료 마지막 페이지에 있습니다.
