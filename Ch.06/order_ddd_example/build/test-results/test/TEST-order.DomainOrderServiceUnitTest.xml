@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="order.DomainOrderServiceUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-03T07:50:48" hostname="saehimui-MacBookAir.local" time="1.212">
+  <properties/>
+  <testcase name="shouldCreateOrder_thenSaveIt()" classname="order.DomainOrderServiceUnitTest" time="1.212"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
