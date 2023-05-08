@@ -226,11 +226,11 @@ public class World {
 		// Entity 배치
 		GameObject ape = EntityGenerator.generateEntity("에이프");
 		GameObject jinny = EntityGenerator.generateEntity("지니");
-		GameObject iireen = EntityGenerator.generateEntity("이린");
+		GameObject iirin = EntityGenerator.generateEntity("이린");
 		GameObject gamja = EntityGenerator.generateEntity("감자");
 		gameObjects.add(ape);
 		gameObjects.add(jinny);
-		gameObjects.add(iireen);
+		gameObjects.add(iirin);
 		gameObjects.add(gamja);
 
 		CompletableFuture ageSystemLauncher = CompletableFuture.runAsync(() -> {
@@ -260,11 +260,11 @@ ArrayList<GameObject> gameObjects = new ArrayList<>();
 
 GameObject ape = EntityGenerator.generateEntity("에이프");
 GameObject jinny = EntityGenerator.generateEntity("지니");
-GameObject iireen = EntityGenerator.generateEntity("이린");
+GameObject iirin = EntityGenerator.generateEntity("이린");
 GameObject gamja = EntityGenerator.generateEntity("감자");
 gameObjects.add(ape);
 gameObjects.add(jinny);
-gameObjects.add(iireen);
+gameObjects.add(iirin);
 gameObjects.add(gamja);
 ```
 
